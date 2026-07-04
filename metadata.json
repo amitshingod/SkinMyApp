@@ -1,0 +1,6 @@
+{
+  "name": "OneShot IconX",
+  "description": "Premium ultra-modern Android application icon customizer with glassmorphism visual aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
